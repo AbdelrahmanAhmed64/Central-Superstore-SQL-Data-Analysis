@@ -389,3 +389,9 @@ It combines:
 **Data Preparation + Data Warehousing + SQL Analytics + Validation + Business Analysis**
 
 The project also demonstrates the ability to use SQL not only for retrieving data, but for structuring data, analyzing business performance, identifying problems, and supporting data-driven decision-making.
+
+
+
+*Author
+
+Abdelrahman Ahmed Abdelshafi
